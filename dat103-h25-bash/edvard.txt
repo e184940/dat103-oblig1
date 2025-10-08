@@ -1,0 +1,10 @@
+EG 147,Vocal,1889,Simpel sang
+Op. 23,Stage,1875,Peer Gynt
+EG 122,Vocal,1860,Den syngende Menighet
+Op. 40,Orchestral,1884,Fra Holbergs tid
+EG 159,Choral,1862,Dona nobis pacem
+catalogue,genre,year,title
+EG 121,Vocal,1859,Siehst du das Meer
+Op. 1,Piano,1861,Fire pianostykker
+Op. 43,Piano,1886,Lyriske stykker, hefte III
+Op. 8,Chamber music,1865,Sonate nr. 1 i F-dur
